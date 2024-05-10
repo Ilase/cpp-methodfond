@@ -11,12 +11,8 @@
             "id": "0700aa1175023515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "create a link.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cdb211ae672f9326",
+  "active": "0700aa1175023515",
   "lastOpenFiles": [
     "Welcome.md",
-    "create a link.md"
+    "MyData_1/New Node.md",
+    "create a link.md",
+    "MyData_1"
   ]
 }
